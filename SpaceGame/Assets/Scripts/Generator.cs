@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Generator : MonoBehaviour {
 
-	public GameObject sphere;
+	private GameObject sphere;
 	public int numberOfCubes;
 	public int min, max;
 
@@ -13,7 +13,8 @@ public class Generator : MonoBehaviour {
 	
 	void PlaceSpheres(){
 		for (int i = 0; i < numberOfCubes; i++) {
-			Instantiate (sphere, GeneratedPosition(), Quaternion.identity);
+			sphere = GameObject.CreatePrimitive (PrimitiveType.Sphere);
+			sphere.transform.Translate(GeneratedPosition (), Space.World);
 		}
 	}
 
