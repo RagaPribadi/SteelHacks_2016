@@ -2,8 +2,12 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Spectator.cs">
     <Files>
+<<<<<<< HEAD
       <File FileName="Assets/Scripts/Spectator.cs" Line="87" Column="2" />
       <File FileName="Assets/OVR/Scripts/OVRManager.cs" Line="24" Column="1" />
+=======
+      <File FileName="Assets/Scripts/Orbiter.cs" Line="13" Column="2" />
+>>>>>>> 1ca7666a48984d9e5bd9234d31ff830d6124ba65
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
