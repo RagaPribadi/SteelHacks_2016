@@ -1,12 +1,15 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Orbiter.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Spectator.cs">
     <Files>
-      <File FileName="Assets/Scripts/Orbiter.cs" Line="10" Column="99" />
+      <File FileName="Assets/Scripts/Spectator.cs" Line="87" Column="2" />
+      <File FileName="Assets/OVR/Scripts/OVRManager.cs" Line="24" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/ragapribadi/Desktop/steelhacks2016/Afternoonpull/SteelHacks_2016/SpaceGame/Assets/OVR/Scripts/OVRManager.cs" line="24" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
