@@ -13,6 +13,6 @@ public class Orbiter : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		gameObject.transform.RotateAround (toOrbit.transform.position, Vector3.up, (rotation/distance) * Time.deltaTime);
+		gameObject.transform.RotateAround (toOrbit.transform.position, Vector3.up, (rotation/distance)*(rotation/distance) * Time.deltaTime);
 	}
 }
