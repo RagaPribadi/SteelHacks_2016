@@ -1,4 +1,4 @@
-# SteelHacks_2016
+# SteelHacks 2016 - SpaceGame
 
 ## Inspiration
 First Hackathon, Oculus Rift, no experience with Unity, you could say we were a little ambitious.
@@ -23,6 +23,5 @@ The basic workings of Unity and some C#, as well as the utilization of Oculus Ri
 ## What's next for SpaceGame
 Implementing more interactive features, lending it a more game-like feel.
 
-
-
+## 
 To run, download zip and extract files. There is an executable for both Windows and OS X.
